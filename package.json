@@ -1,0 +1,19 @@
+{
+  "name": "id-refunc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powerdot/ID-refunc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powerdot/ID-refunc/issues"
+  },
+  "homepage": "https://github.com/powerdot/ID-refunc#readme"
+}
